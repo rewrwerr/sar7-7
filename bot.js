@@ -75,4 +75,4 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 
 
 
-client.login("NDgyODc3NjU5ODg2NjQ5MzY3.DuTf7g.DzscY59bybAoqt8q7CQ42VFG5ec");
+client.login(process.env.BOT_TOKEN);
